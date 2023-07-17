@@ -1,0 +1,132 @@
+body{
+    background-color: rgb(228, 218, 218);
+}
+
+#hero_section{
+    background-image: url(./image/bailey-anselme-Bkp3gLygyeA-unsplash.jpg);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70vh;
+    /* padding: 10px;
+    margin: 10px; */
+    /* text-align: center; */
+}
+
+.mylmg{
+    margin-bottom: 110px;
+    padding: 10px;
+    display: flex;
+
+}
+.qon{
+    text-align: center;
+}
+
+.mylmg:hover{
+    padding: 12px;
+}
+
+#centerIt {
+    text-align: center;
+    /* margin-top: 80px; */
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: cursive;
+
+    /* font-size: 5px; */
+}
+.pos{
+    padding: 10px;
+    margin: 10px;
+}
+
+.zop{
+    background-color: white;
+    padding: 10px;
+
+}
+.zop:hover{
+    background-color: lightblue;
+    color: red;
+    padding: 5px;
+}
+.row{
+    padding: 10px;
+    margin: 10px;
+}
+.vop{
+    padding: 5px;
+    margin: 5px;
+}
+.gop{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+} 
+.fop{
+    text-align: left;
+}
+#heading {
+    color: aqua;
+    text-shadow: 1px 3px 3px orange;
+    -webkit-text-stroke: 1px;
+    -webkit-text-fill-color: blueviolet;
+    text-align: center;
+}
+.let{
+    color: white;
+    text-align: center;
+    padding: 6px;
+    margin: 3px;
+    background-color: blue;
+    
+}
+.let:hover{
+    padding: 3px;
+}
+.lets{
+    color: blue;
+    text-align: center;
+    padding: 6px;
+    margin: 3px;
+    background-color:white;
+}
+.lets:hover{
+    padding: 3px;
+}
+.letss{
+    color: white;
+    text-align: center;
+    padding: 6px;
+    margin: 3px;
+    background-color:green;
+}
+.letss:hover{
+    padding: 3px;
+}
+.letsss{
+    color: white;
+    text-align: center;
+    padding: 6px;
+    margin: 3px;
+    background-color:red;
+}
+.letsss:hover{
+    padding: 3px;
+}
+
+.pet{
+    padding: 10px;
+    border: 1px solid black;
+    height: 500px;
+    background-color:white;
+}
+.xon{
+    width: 100%;
+}
+
